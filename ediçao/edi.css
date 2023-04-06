@@ -121,8 +121,8 @@ body {
 
 #post h1 {
   position:absolute;
-  left: 10%;
-  top: 90%;
+  top: 12%;
+  left: 100%;
   color: white;
   font-size: 45px;
   border: solid 2px #6bc558;

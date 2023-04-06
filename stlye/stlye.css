@@ -110,8 +110,8 @@ body {
 
 .leg a {
   position:absolute;
-  left: 50%;
-  top: 65%;
+  top: 75%; 
+  left: 55%;
   text-decoration: none;
   color: white;
   font-size: 25px;
